@@ -1,6 +1,6 @@
 
 
-package com.jamiegelman1.gamedevtut;
+package com.example.jamiegelman1.monkeybusiness;
 
         import com.jamiegelman1.drawing.GameBoard;
         import com.jamiegelman1.gamedevtut.R;

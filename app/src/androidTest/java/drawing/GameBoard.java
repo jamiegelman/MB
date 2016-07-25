@@ -3,7 +3,6 @@ package drawing;
 /**
  * Created by jamiegelman1 on 7/22/16.
  */
-public class GameBoard {
 
     package com.jamiegelman1.drawing;
     import java.util.ArrayList;
